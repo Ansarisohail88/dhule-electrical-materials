@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/Header';
-import { Footer } from './components/Footer';
-import { MaterialsPage } from './components/MaterialsPage';
-import { MaterialDetailModal } from './components/MaterialDetailModal';
-import { QuoteBasketModal } from './components/QuoteBasketModal';
-import { AdminPanel } from './components/AdminPanel';
-import { MaterialFormModal } from './components/MaterialFormModal';
-import { CategoryBrandModal } from './components/CategoryBrandModal';
-import { BulkActionModal } from './components/BulkActionModal';
-import { ServicesSection } from './components/ServicesSection';
-import { GallerySection } from './components/GallerySection';
-import { ReviewsSection } from './components/ReviewsSection';
-import { FaqSection } from './components/FaqSection';
+import { Header } from './Components/Header';
+import { Footer } from './Components/Footer';
+import { MaterialsPage } from './Components/MaterialsPage';
+import { MaterialDetailModal } from './Components/MaterialDetailModal';
+import { QuoteBasketModal } from './Components/QuoteBasketModal';
+import { AdminPanel } from './Components/AdminPanel';
+import { MaterialFormModal } from './Components/MaterialFormModal';
+import { CategoryBrandModal } from './Components/CategoryBrandModal';
+import { BulkActionModal } from './Components/BulkActionModal';
+import { ServicesSection } from './Components/ServicesSection';
+import { GallerySection } from './Components/GallerySection';
+import { ReviewsSection } from './Components/ReviewsSection';
+import { FaqSection } from './Components/FaqSection';
 
 import { Material, Category, Brand, QuoteRequest } from './types/material';
 import { 
